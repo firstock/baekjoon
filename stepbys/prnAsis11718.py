@@ -16,7 +16,7 @@
 #a= print(input())
 #print(a)
 
-# other2/ t_64ms
+# ###### other2/ t_64ms
 #import sys
 #print(sys.stdin.read())
 
@@ -39,7 +39,7 @@
 #while (chr(3) != input()):
 #    pass
 
-# other3 modify/ t_76ms
+# ####### other3 modify/ t_76ms
 while 1:
     try:
         print(input())
