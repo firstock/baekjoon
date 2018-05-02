@@ -1,5 +1,6 @@
 #include "stdafx.h"
 
+#if 0
 //https://www.acmicpc.net/problem/2839
 int main() {
 	int sugar, res= -1, compa;
@@ -27,3 +28,4 @@ PRINT:
 /*main(sugar) {
 	printf("%d", (0 ==sugar%5%3) ? (int(sugar / 5) + sugar % 5 / 3) : -1);
 }*/
+#endif
